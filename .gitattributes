@@ -1,0 +1,2 @@
+Shakespeare_data.csv filter=lfs diff=lfs merge=lfs -text
+shakespeare.jpg filter=lfs diff=lfs merge=lfs -text
