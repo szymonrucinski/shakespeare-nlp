@@ -11,6 +11,12 @@ plotly = "*"
 nbformat = "*"
 nltk = "*"
 jupyter = "*"
+transformers = "*"
+install = "*"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
+seaborn = "*"
 
 [dev-packages]
 ipykernel = "*"
